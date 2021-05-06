@@ -1,0 +1,11 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 06 May 2021 11:26:49 at https://app-dautien.herokuapp.com/ https://app-dautien.herokuapp.com/login https://app-dautien.herokuapp.com/order +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://app-dautien.herokuapp.com/ https://app-dautien.herokuapp.com/login https://app-dautien.herokuapp.com/order -O1 "C:\My Web Sites\MinhDuy" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 18 seconds : 17 links scanned, 16 files written (764182 bytes overall) [771204 bytes received at 42844 bytes/sec], 3.0 requests per connection
+(No errors, 0 warnings, 0 messages)
